@@ -34,3 +34,5 @@ Cryptocurrency trading carries financial risk. Use this project responsibly and 
 
 If you’d like to support this project, you can send BTC to the following address:
 bc1qwq5dn6yu0tdqerrqja3mwvc49qy2pmv5zdj9yw
+
+For Communication Telegram: Walthy14
